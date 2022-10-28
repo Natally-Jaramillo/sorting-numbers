@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React working with numbers app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live Demo available [here](https://nat-projects-dev.herokuapp.com/).
 
 ## Available Scripts
 
